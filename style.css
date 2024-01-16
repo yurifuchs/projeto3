@@ -19,14 +19,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 15px;
+    margin-bottom: 55px;
   }
   
   ul {
     display: flex;
     list-style: none;
-    justify-content: space-evenly;
-    width: 268px;
     margin: 0;
     padding: 0;
     gap: 48px;
@@ -65,7 +63,7 @@ body {
     color: #89c5cc;
     font-weight: bold;
   }
-  
+
   main{
     display: flex;
     align-items: center;
