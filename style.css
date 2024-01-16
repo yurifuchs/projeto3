@@ -13,11 +13,7 @@ body {
     margin: 0 auto;
     padding-top: 65px;
   }
-  #n_precisa{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
+
   
   nav {
     display: flex;
@@ -68,6 +64,12 @@ body {
   h1 span {
     color: #89c5cc;
     font-weight: bold;
+  }
+  
+  main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
   
   section p {
